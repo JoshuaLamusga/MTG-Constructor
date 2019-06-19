@@ -1,0 +1,6 @@
+﻿AllFormats.json:
+- Prismatic ban list: https://mtg.gamepedia.com/Prismatic
+- MiniMagic ban list: https://docs.google.com/document/d/1GeVjtKGGfSnpST_qep0y5BeHS9HIS_zADVLsb-04ObQ/edit
+- TinyLeaders ban list: http://tinyleaders.blogspot.com/p/ban-list.html
+
+DeckFormat.cs: Update when a popular format changes or a new one is created.
